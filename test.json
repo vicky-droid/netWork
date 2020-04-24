@@ -1,1 +1,13 @@
-{"TotalConfirmed":2707338,"TotalDeaths":190813,"TotalRecovered":737841}
+{
+  videos": [
+      {
+        "name": "Seven steps to prevent the spread of the virus",
+        "id": "8c_UJwLq8PI",
+      },
+      {
+        "name": "How to protect yourself against COVID-19?",
+        "id": "1APwq1df6Mw",
+      }
+    ]
+  
+}
