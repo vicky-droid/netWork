@@ -1,7 +1,7 @@
 {
   "details": {
     "sub_total": 10,
-    "discount_amount": 20,
+    "discount_amount": 26,
     "delivery_charge": 0,
     "total": 120
   },
@@ -10,27 +10,27 @@
       "id": 1,
       "thumb": "",
       "name": "Ponni",
-      "price": "10",
+      "price": "80 Rs/Kg",
       "quantity": 10,
-      "offer_percentage": "10%",
-      "offer_price": "10%"
+      "offer_percentage": "20%",
+      "offer_price": "16 RS"
 
     },
     {
       "id": 1,
       "thumb": "",
       "name": "gold winner",
-      "price": "100",
+      "price": "100 Rs/1L",
       "quantity": 2,
       "offer_percentage": "10%",
-      "offer_price": "10%"
+      "offer_price": "10 RS"
 
     },
     {
       "id": 1,
       "thumb": "",
       "name": "Ponni",
-      "price": "10",
+      "price": "60 Rs/Kg",
       "quantity": 10
     }
   ],
